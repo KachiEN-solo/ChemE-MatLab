@@ -8,7 +8,7 @@ Each project is organized into its own folder and includes documented code, visu
 
 ## 📂 Projects
 
-### 🔹 [CSTR + PFR Reactor Simulation](./CSTR_PFR/)
+### 🔹 [CSTR + PFR Reactor Simulation](./matlab-reactor-sim/)
 Simulates a first-order exothermic reaction (A → B) in both a Continuous Stirred Tank Reactor (CSTR) and a Plug Flow Reactor (PFR). Models both concentration and temperature dynamics, including a multi-curve analysis for varying coolant temperatures.
 
 ### 🔹 [PID Controller Design](./PID_Control/)
