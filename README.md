@@ -38,7 +38,7 @@ Solves Navier-Stokes-based models for laminar and turbulent flow in pipes. Simul
 
 **Kachi Ezuma-Ngwu**  
 Chemical Engineering Student @ Yale University  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)
+[LinkedIn](linkedin.com/in/onyedikachi-ezuma-ngwu-356957299) | [GitHub](https://github.com/kaachiEN-solo)
 
 ---
 
