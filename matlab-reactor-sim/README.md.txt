@@ -43,7 +43,7 @@ This project simulates a **Continuous Stirred Tank Reactor (CSTR)** and a **Plug
 **Kachi Ezuma-Ngwu**  
 Chemical Engineering Student @ Yale University  
 [LinkedIn](https://www.linkedin.com/in/onyedikachi-ezuma-ngwu-356957299/) | 
-[Resume Portfolio](https://github.com/KachiEN-solo)
+[Resume Portfolio](https://github.com/Kachiezn)
 
 ---
 
