@@ -8,8 +8,12 @@ Each project is organized into its own folder and includes documented code, visu
 
 ## 📂 Projects
 
+## Completed
+
 ### 🔹 [CSTR + PFR Reactor Simulation](./matlab-reactor-sim/)
 Simulates a first-order exothermic reaction (A → B) in both a Continuous Stirred Tank Reactor (CSTR) and a Plug Flow Reactor (PFR). Models both concentration and temperature dynamics, including a multi-curve analysis for varying coolant temperatures.
+
+## To be completed
 
 ### 🔹 [PID Controller Design](./PID_Control/)
 Implements a PID controller for maintaining reactor temperature in a dynamic CSTR system. Simulates controller tuning and response to disturbances.
@@ -38,7 +42,7 @@ Solves Navier-Stokes-based models for laminar and turbulent flow in pipes. Simul
 
 **Kachi Ezuma-Ngwu**  
 Chemical Engineering Student @ Yale University  
-[LinkedIn](linkedin.com/in/onyedikachi-ezuma-ngwu-356957299) | [GitHub](https://github.com/kaachiezn)
+[LinkedIn](linkedin.com/in/onyedikachi-ezuma-ngwu-356957299) | [GitHub](https://github.com/kachiezn)
 
 ---
 
