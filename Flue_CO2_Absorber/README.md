@@ -18,7 +18,7 @@ This project simulates a packed column within a Flue filled with an amine rich f
 ## Example Output
 
 **CO₂ Removal Efficiency vs Time**  
-![CO2 Absorption Efficiency Output](output/Flue_CO2_Absorber_Output_Test1)
+![CO2 Absorption Efficiency Output](output/Flue_CO2_Absorber_Output_Test1.jpg)
 
 ## How to Run
 
