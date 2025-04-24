@@ -1,53 +1,38 @@
-# MATLAB Chemical Reactor Simulation: CSTR + PFR
+# Python (3.11) Flue CO2 Absorbtion Simulation
 
-This project simulates a **Continuous Stirred Tank Reactor (CSTR)** and a **Plug Flow Reactor (PFR)** in MATLAB for an **exothermic A → B reaction**. The simulation calculates and visualizes concentration and temperature profiles over time (CSTR) and space (PFR).
-
----
+This project simulates a packed column within a Flue filled with an amine rich fluid (MEA). which reacts with CO2 to capture the gas within the liquid. The simulation calculates and visualizes concentration and absorbing ability profiles over time for the Flue gas and the amine-rich absorbing fluid (amine scrubbing).
 
 ## Features
 
-- **CSTR**: Dynamic simulation with heat transfer
-- **PFR**: Steady-state simulation
-- **Exothermic reaction**: Models heat generation
-- **Coolant temperature sweep**: Multiple curves for analysis
-- **Realistic plots** of reactor behavior
-
----
+- Simulates CO₂ capture in a packed absorber column
+- Includes carbamate formation and chemical equilibrium
+- Accounts for gas-liquid mass transfer
+- Supports flow rate and amine concentration sweeps
+- Generates plots of removal efficiency and concentration profiles
 
 ## Files
 
-- `modeling.m`: Main script for CSTR & PFR simulations
-- `/output/`: Folder for saved plots (optional)
-
----
+- `Flue_CO2_Absorber_main.py`: Main simulation script  
+- `/output/`: Folder for saving plots (optional)
 
 ## Example Output
 
-**CSTR: Temperature vs Time**  
-![CSTR Output](output/cstr_temp_plot.png)
+**CO₂ Removal Efficiency vs Time**  
+![CO2 Efficiency Output](output/co2_efficiency_plot.png)
 
-**PFR: Temperature vs Reactor Volume**  
-![PFR Output](output/pfr_temp_plot.png)
-
----
+**CO₂ Concentration vs Column Height**  
+![CO2 Profile Output](output/co2_profile_plot.png)
 
 ## How to Run
 
-1. Open `modeling.m` in MATLAB.
-2. Run the script. Plots will display automatically.
+1. Open `Flue_CO2_Absorber.m` in MATLAB.  
+2. Run the script. Plots will display and save automatically (if `/output/` exists).
 
----
+## Requirements
 
-## Author
-
-**Kachi Ezuma-Ngwu**  
-Chemical Engineering Student @ Yale University  
-[LinkedIn](https://www.linkedin.com/in/onyedikachi-ezuma-ngwu-356957299/) | 
-[Resume Portfolio](https://github.com/Kachiezn)
-
----
+- MATLAB R2021a or newer  
+- No additional toolboxes required
 
 ## License
 
-MIT License  
-
+MIT License. See `LICENSE` for details.
