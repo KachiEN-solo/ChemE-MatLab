@@ -18,21 +18,18 @@ This project simulates a packed column within a Flue filled with an amine rich f
 ## Example Output
 
 **CO₂ Removal Efficiency vs Time**  
-![CO2 Efficiency Output](output/co2_efficiency_plot.png)
-
-**CO₂ Concentration vs Column Height**  
-![CO2 Profile Output](output/co2_profile_plot.png)
+![CO2 Absorption Efficiency Output](output/Flue_CO2_Absorber_Output_Test1)
 
 ## How to Run
 
-1. Open `Flue_CO2_Absorber.m` in MATLAB.  
-2. Run the script. Plots will display and save automatically (if `/output/` exists).
+1. Open `Flue_CO2_Absorber_main.py` in a Python-friendly environment.
+2. Download necessary libraries (specified in code header)  
+3. Run the script. Plots will display and save automatically (if `/output/` exists).
 
 ## Requirements
 
-- MATLAB R2021a or newer  
-- No additional toolboxes required
+-   Python 3.11
 
 ## License
 
-MIT License. See `LICENSE` for details.
+MIT License.
