@@ -32,8 +32,8 @@ Solves Navier-Stokes-based models for laminar and turbulent flow in pipes. Simul
 ## 🛠 How to Use
 
 1. Clone the repository  
-2. Open any project folder in MATLAB  
-3. Run the main script (typically `main.m` or similar)  
+2. Open any project folder in the appropriate enironment 
+3. Run the main script 
 4. Review plots and code comments for interpretation
 
 ---
