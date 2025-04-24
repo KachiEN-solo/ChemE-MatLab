@@ -13,7 +13,7 @@ Each project is organized into its own folder and includes documented code, visu
 ### 🔹 [CSTR + PFR Reactor Simulation in MATLAB](./matlab-reactor-sim/)
 Simulates a first-order exothermic reaction (A → B) in both a Continuous Stirred Tank Reactor (CSTR) and a Plug Flow Reactor (PFR). Models both concentration and temperature dynamics, including a multi-curve analysis for varying coolant temperatures.
 
-### 🔹 [Carbon Capture Simulation in Python 3.11](./Flue_CO2_Absorber/)
+### 🔹 [Flue CO2 Absorbtion Simulation in Python 3.11](./Flue_CO2_Absorber/)
 Models CO₂ absorption using amine solutions. Includes mass transfer, reaction kinetics, and energy balance in a packed column.
 
 ## To be completed
