@@ -5,7 +5,7 @@ This project simulates a packed column within a Flue filled with an amine rich f
 ## Features
 
 - Simulates CO₂ capture in a packed absorber column
-- Includes carbamate formation and chemical equilibrium
+- Includes carbamate formation and chemical equilibrium (ODE application)
 - Accounts for gas-liquid mass transfer
 - Supports flow rate and amine concentration sweeps
 - Generates plots of removal efficiency and concentration profiles
