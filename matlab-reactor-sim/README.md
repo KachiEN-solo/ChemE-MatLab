@@ -24,10 +24,10 @@ This project simulates a **Continuous Stirred Tank Reactor (CSTR)** and a **Plug
 ## Example Output
 
 **CSTR: Temperature vs Time**  
-![CSTR Output](output/cstr_temp_plot.png)
+![CSTR Output](./output/CSTR_Modeling_Figure.png)
 
 **PFR: Temperature vs Reactor Volume**  
-![PFR Output](output/pfr_temp_plot.png)
+![PFR Output](./output/PFR_Modeling_Figure.png)
 
 ---
 
