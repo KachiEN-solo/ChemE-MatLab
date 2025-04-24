@@ -1,6 +1,6 @@
-# 🧪 MATLAB Projects for Chemical Engineering
+# 🧪 Projects for Chemical Engineering
 
-This repository contains a collection of MATLAB projects that model and simulate key systems in chemical engineering, with a focus on reaction engineering, process control, heat transfer, and machine learning for materials.
+This repository contains a collection of projects that model and simulate key systems in chemical engineering, with a focus on reaction engineering, process control, heat transfer, and machine learning for materials.
 
 Each project is organized into its own folder and includes documented code, visualizations, and engineering context.
 
@@ -10,16 +10,16 @@ Each project is organized into its own folder and includes documented code, visu
 
 ## Completed
 
-### 🔹 [CSTR + PFR Reactor Simulation](./matlab-reactor-sim/)
+### 🔹 [CSTR + PFR Reactor Simulation in MATLAB](./matlab-reactor-sim/)
 Simulates a first-order exothermic reaction (A → B) in both a Continuous Stirred Tank Reactor (CSTR) and a Plug Flow Reactor (PFR). Models both concentration and temperature dynamics, including a multi-curve analysis for varying coolant temperatures.
+
+### 🔹 [Carbon Capture Simulation in Python 3.11](./CO2_Capture/)
+Models CO₂ absorption using amine solutions. Includes mass transfer, reaction kinetics, and energy balance in a packed column.
 
 ## To be completed
 
 ### 🔹 [PID Controller Design](./PID_Control/)
 Implements a PID controller for maintaining reactor temperature in a dynamic CSTR system. Simulates controller tuning and response to disturbances.
-
-### 🔹 [Carbon Capture Simulation](./CO2_Capture/)
-Models CO₂ absorption using amine solutions. Includes mass transfer, reaction kinetics, and energy balance in a packed column.
 
 ### 🔹 [Neural Network for Materials Prediction](./NN_Materials/)
 Trains a neural network to predict material properties (e.g., conductivity, strength) from compositional or structural inputs. Applies basic preprocessing and model evaluation.
